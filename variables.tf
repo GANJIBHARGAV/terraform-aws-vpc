@@ -72,7 +72,7 @@ variable "database_route" {
   default = {}
 }
 
-variable "is_vpc_required" {
+variable "is_peering_required" {
   default = false
 }
 
